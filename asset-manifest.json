@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rungnapacommath/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rungnapacommath/static/js/main.c39fb7b6.chunk.js",
+    "main.js.map": "/rungnapacommath/static/js/main.c39fb7b6.chunk.js.map",
+    "runtime-main.js": "/rungnapacommath/static/js/runtime-main.6429e4d3.js",
+    "runtime-main.js.map": "/rungnapacommath/static/js/runtime-main.6429e4d3.js.map",
+    "static/js/2.a693db1c.chunk.js": "/rungnapacommath/static/js/2.a693db1c.chunk.js",
+    "static/js/2.a693db1c.chunk.js.map": "/rungnapacommath/static/js/2.a693db1c.chunk.js.map",
+    "index.html": "/rungnapacommath/index.html",
+    "precache-manifest.73dee9b72340e69b2e604c0da60c5cb6.js": "/rungnapacommath/precache-manifest.73dee9b72340e69b2e604c0da60c5cb6.js",
+    "service-worker.js": "/rungnapacommath/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rungnapacommath/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a693db1c.chunk.js.LICENSE.txt": "/rungnapacommath/static/js/2.a693db1c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rungnapacommath/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6429e4d3.js",
+    "static/js/2.a693db1c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c39fb7b6.chunk.js"
+  ]
+}
