@@ -131,7 +131,7 @@ export default function MainPage() {
                     บทที่ 3
                     </Typography>
                     <Typography component="h5" variant="h5" color="textPrimary" align="center">
-                    "บทที่ 3"Interpolation
+                    Interpolation
                     </Typography>
                 </CardContent>
                 <CardActions>
