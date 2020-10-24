@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rungnapacommath/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/rungnapacommath/static/js/main.13df9744.chunk.js",
-    "main.js.map": "/rungnapacommath/static/js/main.13df9744.chunk.js.map",
+    "main.js": "/rungnapacommath/static/js/main.b84a4997.chunk.js",
+    "main.js.map": "/rungnapacommath/static/js/main.b84a4997.chunk.js.map",
     "runtime-main.js": "/rungnapacommath/static/js/runtime-main.6429e4d3.js",
     "runtime-main.js.map": "/rungnapacommath/static/js/runtime-main.6429e4d3.js.map",
     "static/js/2.52d41b7e.chunk.js": "/rungnapacommath/static/js/2.52d41b7e.chunk.js",
     "static/js/2.52d41b7e.chunk.js.map": "/rungnapacommath/static/js/2.52d41b7e.chunk.js.map",
     "index.html": "/rungnapacommath/index.html",
-    "precache-manifest.758b780dd61ca4c9caeb4ed7283efe5e.js": "/rungnapacommath/precache-manifest.758b780dd61ca4c9caeb4ed7283efe5e.js",
+    "precache-manifest.bde6d7abb7193000ee610d091af4fc67.js": "/rungnapacommath/precache-manifest.bde6d7abb7193000ee610d091af4fc67.js",
     "service-worker.js": "/rungnapacommath/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/rungnapacommath/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.52d41b7e.chunk.js.LICENSE.txt": "/rungnapacommath/static/js/2.52d41b7e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6429e4d3.js",
     "static/js/2.52d41b7e.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.13df9744.chunk.js"
+    "static/js/main.b84a4997.chunk.js"
   ]
 }
